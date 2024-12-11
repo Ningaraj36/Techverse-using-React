@@ -1,4 +1,4 @@
-using react with payment
+using react with payment gateway
 
 
 # Getting Started with Create React App
